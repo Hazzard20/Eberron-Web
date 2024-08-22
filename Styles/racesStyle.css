@@ -1,0 +1,28 @@
+#races-nav {
+    padding: 15px 0px 0px 45px;
+}
+
+#races-nav a {
+    transition: all 0.3s ease 0s;
+}
+
+#races-nav a:hover {
+    color: rgb(155, 170, 184);
+}
+
+#races-description {
+    padding: 0px 0px 15px 30px;
+}
+
+#races-description h2 {
+    color: #edf0f1;
+    text-decoration: underline;
+}
+
+#races-description p {
+    color: #edf0f1;
+}
+
+.race-div {
+    padding: 15px 0px 15px 0px;
+}

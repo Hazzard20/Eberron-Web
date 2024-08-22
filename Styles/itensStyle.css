@@ -1,0 +1,18 @@
+#itens-sec div {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#itens-sec div p {
+    color: #edf0f1;
+}
+
+#itens-sec div p, #itens-sec div {
+    background-color: #2f3038;
+}
+
+#itens-sec div p:first-child {
+    font-size: 20px;
+    text-decoration: underline;
+}
